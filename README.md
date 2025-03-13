@@ -40,7 +40,8 @@ Enable scalability to accommodate high traffic during peak hiring seasons.
 
 
 ## Use Cases
-![Screenshot 2025-03-12 205442](https://github.com/user-attachments/assets/f0137e3c-78b2-4bda-a4e9-9401d83d2033)
+
+![12](https://github.com/user-attachments/assets/9d2609df-6231-4763-a2f2-b55998017ab7)
 
 
 ## Technology Stack
@@ -54,8 +55,9 @@ Node.js
 ```
 
 ## Dependencies
-Mapping service -10days
+TIME DURATION :-
+Mapping service -12days
 
-Data collection-10days
+Data collection-17days
 
-budget-rs.50,000
+EXPENSES-rs: ~45,000
